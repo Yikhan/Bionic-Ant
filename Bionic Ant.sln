@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bionic Ant", "Pydev\Bionic Ant.pyproj", "{2445000F-0AE5-4A3E-9EDD-DE73DE4DB784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2445000F-0AE5-4A3E-9EDD-DE73DE4DB784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2445000F-0AE5-4A3E-9EDD-DE73DE4DB784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07147904-A7B3-4114-8708-263982C4A1B6}
+	EndGlobalSection
+EndGlobal
